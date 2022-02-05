@@ -1,0 +1,10 @@
+.text-overflow {
+  overflow-y: auto;
+  white-space: pre-wrap;
+  padding: 10px 0px;
+  max-width: 150px;
+  overflow: auto;
+  max-height: 100px;
+}
+
+

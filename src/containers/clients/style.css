@@ -1,0 +1,41 @@
+/* .c {
+  width: 500px;
+  height: 200px;
+  padding: 30px;
+  background: whitesmoke;
+  border-radius: 10px;
+  box-shadow: 0 15px 50px rgba(0, 0, 0, 0.2);
+  margin: 0 auto;
+}
+
+.logo {
+  width: 180px;
+  height: 180px;
+  background-color: rgba(0, 0, 0, 0.4);
+  background-size: cover;
+  border-radius: 50%;
+  float: left;
+  shape-outside: circle();
+  margin: 30px 20px 30px 0;
+  box-shadow: -2px 2px 400px #808080;
+  transform: translate(-70%, -30%);
+}
+
+.bio {
+  transform: translateX(-95px);
+  font-family: "KoHo", sans-serif;
+  margin: 0;
+  padding: 0;
+  text-align: justify;
+  line-height: 28px;
+}
+
+.social {
+  display: grid;
+  line-height: 2.5;
+  transform: translate(260px, -190px);
+  width: 40px;
+}
+.s-btn {
+  color: black;
+} */

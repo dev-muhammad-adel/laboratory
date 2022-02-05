@@ -1,0 +1,73 @@
+.logo {
+  transition-duration: 0.2s;
+  height: 40px;
+  display: flex;
+  align-items: center;
+  /* margin: 0 17px; */
+  
+
+}
+
+
+.logo-fc {
+  height: 35px;
+}
+.logo-sc {
+  width: 100%;
+  margin: 0px 6px 0px 6px;
+}
+
+.breadcrumb-container {
+  height: 100%;
+  display: flex;
+  /* box-shadow: 0px 0px 1px 1px #eee inset; */
+  padding: 0 8px;
+  border-radius: 5px;
+  min-width: 150px;
+  justify-content: left;
+  height: 33px;
+  align-self: center;
+}
+.ant-breadcrumb span a {
+  /* font-size: 18px !important; */
+color: rgb(58 166 211) !important;
+}
+.ant-breadcrumb-separator{
+  color: rgb(58 166 211) !important;
+
+}
+.ant-breadcrumb .anticon {
+  font-size: 18px !important;
+  color:rgb(58 166 211);
+
+}
+.makeCollapse {
+  display: none !important;
+  margin: 0 15px;
+}
+.makeCollapse2 {
+  display: block !important;
+}
+.isoLeft{
+  width: 100px;
+}
+
+@media only screen and (max-width:768px) {
+  .makeCollapse {
+    display: block !important;
+    margin: 0;
+  }
+  .makeCollapse2 {
+    display: none !important;
+  }
+  .isoLeft {
+    width:initial
+  }
+}
+@media only screen and (max-width:350px) {
+ 
+.ant-breadcrumb {
+  font-size: 10px !important;
+
+}
+}

@@ -1,0 +1,30 @@
+.custom-select-container .ant-select-arrow,
+.custom-select-container .ant-select-arrow .span {
+  padding: 0;
+}
+
+.ant-select-single:not(.ant-select-customize-input) .ant-select-selector {
+  border: 1px solid #e6eaf0 !important;
+  border-radius: 10px;
+}
+
+.ant-select-selection-item,
+.ant-select-arrow,
+.ant-select,
+.ant-select-selection-item,
+.ant-select-arrow,
+.ant-select::placeholder {
+  color: #1b5b7e;
+}
+
+.ant-select-multiple .ant-select-selection-item {
+  background: transparent;
+  border-radius: 0.7rem;
+}
+.ant-select-selection.ant-select-selection--single {
+  border-radius: 10px;
+}
+
+.ant-select-selection-selected-value {
+  color: #1b5b7e;
+}

@@ -1,0 +1,34 @@
+.custom-input {
+  background: #ffffff;
+  border-radius: 3px;
+  color: #3a3a3c;
+  outline: none;
+  border: none;
+  padding: 4px 15px;
+  border-style: solid;
+  border-width: thin;
+  border-color: #3a3a3c42;
+  /* margin: 4px 4px 4px 0px; */
+}
+.custom-input2 {
+  background: #ffffff;
+  border-radius: 3px;
+  color: #3a3a3c;
+  outline: none;
+  border: none;
+  padding: 4px 15px;
+  border-style: solid;
+  border-width: thin;
+}
+
+.custom-input:disabled {
+  background: #e6eaf0;
+  cursor: not-allowed;
+}
+
+.ant-radio-disabled.ant-radio-inner {
+  background-color: white !important;
+}
+.ant-radio-disabled + span {
+  color: black !important;
+}

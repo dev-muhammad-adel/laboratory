@@ -1,0 +1,16 @@
+.ant-modal-close {
+  right: 2rem !important;
+  top: -1rem !important;
+  background: white;
+  border-radius: 5rem;
+  position: absolute;
+}
+.ant-modal-content {
+  border-radius: 0.5rem;
+}
+
+.ant-modal-close-x {
+  transform: translateY(-10px);
+  width: 30px;
+  height: 30px;
+}
