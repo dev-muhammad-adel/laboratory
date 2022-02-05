@@ -1,0 +1,2 @@
+(this.webpackJsonpbetalab=this.webpackJsonpbetalab||[]).push([[0],{486:function(a,t,s){"use strict";var n=s(912);t.a=n.a},487:function(a,t,s){"use strict";var n=s(651);t.a=n.a},501:function(a,t,s){}}]);
+//# sourceMappingURL=0.0a49a2df.chunk.js.map
